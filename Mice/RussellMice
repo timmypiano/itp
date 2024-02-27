@@ -1,0 +1,4 @@
+A = 1 + 2
+B = "Blind"
+C = "Mice"
+print(f"{A}\n\t{B}\n\t\t{C}")
