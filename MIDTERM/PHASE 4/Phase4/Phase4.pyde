@@ -1,5 +1,5 @@
 def setup():
-    size(1000, 1000)
+    size(400, 400)
     noStroke()
 
 def drawObject(x, y, s):
@@ -19,8 +19,10 @@ def drawObject(x, y, s):
     pop()
      
 def draw():
-    for x in range (0, 1000, 
-    drawObject(200, 200, 1)
+    for x in range (0, 381, 20):
+        drawObject(x, 0, .2)
+    for y in range (0, 381, 20):
+        drawObject(x, y, .2)
     
     
     

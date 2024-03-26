@@ -6,4 +6,4 @@ Okay so I'm gonna make it a square, 1000by1000. Which if my logic clicks, means 
 
 
 So my original canvas is 400by400. 
-Which the object redrawn has to be in a 400by400 square. So let me make my canvas for phase 4 1,600 by 1,600 which is just 4x the size, meaning I can make it a 4by4 grid just scaled out, and now I need. OMGOSHH I CAN'T DO THIS :(((( 
+Which the object redrawn has to be in a 400by400 square. So let me make my canvas for phase 4 1,600 by 1,600 which is just 4x the size, meaning I can make it a 4by4 grid just scaled out, and now I need. OMGOSHH I CAN'T DO THIS :(((( I'm gonna try the code that someone in the groupchat was explaining but it's just not clicking, it's not working :(
